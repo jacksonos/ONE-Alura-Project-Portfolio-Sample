@@ -1,4 +1,4 @@
-# Portafolio Personal
+# Portafolio Sample
 
 Este es un proyecto es parte del la ruta de aprendizaje de Alura | ONE (Oracle Next Education). Es un simple proyecto de frontend que representa un portafolio personal sample. Está desarrollado utilizando únicamente HTML y CSS para proporcionar una estructura y un diseño atractivo y responsivo.
 
