@@ -37,5 +37,5 @@ portfolio/
 ## 📸 Capturas de Pantalla
 
 *(Agrega aquí capturas de la interfaz de tu portafolio)*
-![alt text](http://url/to/img.png](https://i.imgur.com/I92qUWv.png)
+![App Screenshot](https://i.imgur.com/I92qUWv.png)
   
