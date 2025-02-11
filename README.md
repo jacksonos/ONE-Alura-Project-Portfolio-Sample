@@ -35,7 +35,5 @@ portfolio/
 2. Abre el archivo `index.html` en tu navegador.
 
 ## 📸 Capturas de Pantalla
-
-*(Agrega aquí capturas de la interfaz de tu portafolio)*
 ![App Screenshot](https://i.imgur.com/I92qUWv.png)
   
